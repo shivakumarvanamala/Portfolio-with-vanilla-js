@@ -1,0 +1,24 @@
+TODO: 
+      >> Add the arrow image at bottom right of each section ✅
+      >> Add the arrow navigation to the next section
+      >> Add hover effect in nav links
+      >> Make fix the footer in the bottom ✅
+      >> fix where to place footer either fixed or at the end of the page ✅
+TODO:
+      >> change the icons in about section right class
+
+TODO:
+      In contact me section :
+      >> Reach out me 
+         EmailI'd
+      >> Connect me
+         Linkdin link
+      >> Follow me
+         Twitter link
+      >> Text me
+         Insta link
+      >> Catch me up
+         Github link
+   
+FIXME :
+        >> change the icons in about section to Mail, Linkdin, Twitter, Insta, Github
