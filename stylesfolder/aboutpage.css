@@ -8,26 +8,29 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    color: blanchedalmond;
 }
 
 #about .top {
-    height: 20vh;
+    height: 15vh;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: center;
-
+    color: white;
+    line-height: 1.2;
 }
 
 
 #about .top h6 {
-    font-size: 16px;
+    font-size: 14px;
+    font-weight: 400;
     align-items: center;
 }
 
 #about .top h1 {
     align-items: center;
-    font-size: 50px;
+    font-size: 40px;
 }
 
 #about .bottom {
@@ -40,28 +43,89 @@
 
 
 #about .bottom .left {
-    width: 30vw;
-    height: 50vh;
+    width: 28vw;
+    height: 41vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 
 #about .bottom .left img {
-    height: 100%;
-    width: 100%;
-    object-fit: contain;
+    height: 98%;
+    width: 98%;
+    border-radius: 30px;
+    object-fit: cover;
 }
 
 #about .bottom .right {
-    width: 60%;
-    height: 90%;
+    width: 50%;
+    height: 70%;
 }
 
 #about .bottom .right .right-top {
     height: 50%;
-    border: 2px solid red;
 }
 
 
 #about .bottom .right .right-bottom {
-    border: 2px solid red;
+    border: 2px solid white;
+    border-radius: 20px;
     height: 50%;
+    width: 95%;
+    margin: 10px auto 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    padding: 10px;
+    line-height: 1.7;
+    font-size: 17px;
+}
+
+#about .right .right-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#about .right .right-top .top-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid white;
+    border-radius: 20px;
+    height: 90%;
+    width: 45%;
+}
+
+#about .right .right-top .top-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90%;
+    width: 45%;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+
+.icon {
+    width: 35px;
+    height: 35px;
+}
+
+.icon img {
+    width: 100%;
+    height: 100%;
+    filter: invert(1);
+}
+
+.content {
+    text-align: center;
+}
+
+.content h4 {
+    font-weight: 600;
+    font-size: 20px;
 }
