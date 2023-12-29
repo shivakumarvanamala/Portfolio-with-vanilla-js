@@ -1,4 +1,9 @@
 /* Contacts section */
 #contact {
     height: 97vh;
+    transition: all 0.2s ease;
+}
+
+#contact .arrow {
+    rotate: 180deg;
 }

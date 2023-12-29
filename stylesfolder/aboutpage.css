@@ -68,7 +68,7 @@
 
 
 #about .bottom .right .right-bottom {
-    border: 2px solid white;
+    /* border: 2px solid white; */
     border-radius: 20px;
     height: 50%;
     width: 95%;
@@ -80,6 +80,7 @@
     padding: 10px;
     line-height: 1.7;
     font-size: 17px;
+    font-weight: 400;
 }
 
 #about .right .right-top {
