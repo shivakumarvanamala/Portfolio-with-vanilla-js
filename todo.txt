@@ -1,3 +1,11 @@
+
+
+"""
+ Go to the browser and open 'https://tangerine-hummingbird-1479b6.netlify.app' for reference of this portfolio 
+ 
+"""
+
+
 TODO: 
       >> Add the arrow image at bottom right of each section ✅
       >> Add the arrow navigation to the next section
