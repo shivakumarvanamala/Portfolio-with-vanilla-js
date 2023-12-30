@@ -11,28 +11,6 @@
     color: blanchedalmond;
 }
 
-#about .top {
-    height: 15vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    align-items: center;
-    color: white;
-    line-height: 1.2;
-}
-
-
-#about .top h6 {
-    font-size: 14px;
-    font-weight: 400;
-    align-items: center;
-}
-
-#about .top h1 {
-    align-items: center;
-    font-size: 40px;
-}
-
 #about .bottom {
     height: 80vh;
     width: 100%;

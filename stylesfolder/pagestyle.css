@@ -29,6 +29,30 @@ section {
 }
 
 
+/* each section heading */
+
+.top {
+    height: 15vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    color: white;
+    line-height: 1.2;
+}
+
+
+.top h6 {
+    font-size: 14px;
+    font-weight: 400;
+    align-items: center;
+}
+
+.top h1 {
+    align-items: center;
+    font-size: 40px;
+}
+
 /* header */
 
 nav {
