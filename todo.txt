@@ -20,7 +20,7 @@ TODO:
       >> Reach out me 
          EmailI'd
       >> Connect me
-         Linkdin link
+         LinkedIn link
       >> Follow me
          Twitter link
       >> Text me
@@ -29,11 +29,11 @@ TODO:
          Github link
    
 FIXME :
-        >> change the icons in about section to Mail, Linkdin, Twitter, Insta, Github
+        >> change the icons in about section to Mail, Linkedin, Twitter, Insta, Github
 
 
 about section context :
-       I'm a student, frontend devoloper and a programmer.
-       As I'm very much interested in the domain of web devolopment and always interested in the
+       I'm a student, frontend developer and a programmer.
+       As I'm very much interested in the domain of web development and always interested in the
        idea of how the internet
        works, how a webpage interacts and a lot I got into this and now, enjoying my journey... 😊
